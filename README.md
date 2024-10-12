@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI, Machine Learning and Data Science
 - 🌱 I’m currently learning Python 
 - 📫 How to reach me praveensingh62008@gmail.com
-- 😄 Pronouns: she/her I am excited to learn from open source community!
+- 😄 Pronouns: I am excited to learn from open source community!
 
 <!---
 Praveen0008-Singh/Praveen0008-Singh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
