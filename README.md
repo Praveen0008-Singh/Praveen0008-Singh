@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Praveen
 - 👀 I’m interested in AI, Machine Learning and Data Science
 - 🌱 I’m currently learning Python 
-- 📫 How to reach me praveensingh62008@gmail.com
+- 📫 How to reach me praveensingh67659@gmail.com
 - 😄 Pronouns: He/him 
 - I am excited to learn from open source community!
 <!---I am excited to learn from open source communit
