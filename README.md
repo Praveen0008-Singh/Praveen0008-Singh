@@ -1,10 +1,4 @@
-- 👋 Hi, I’m Praveen
-- 👀 I’m interested in AI, Machine Learning and Data Science
-- 🌱 I’m currently learning Python 
-- 📫 How to reach me praveensingh67659@gmail.com
-- 😄 Pronouns: He/him 
-- I am excited to learn from open source community!
-<!---I am excited to learn from open source communit
-Praveen0008-Singh/Praveen0008-Singh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Building and experimenting with Python. Passionate about AI, Machine Learning, and Data Science. Focused on creating impactful real-world projects.
+
+✉️ praveensingh67659@gmail.com
+🔗https://www.linkedin.com/in/praveen-singh-407126325?utm_source=share_via&utm_content=profile&utm_medium=member_android
